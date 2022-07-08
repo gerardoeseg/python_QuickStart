@@ -1,7 +1,7 @@
 # Curso - Python Quick Start
 ## LinkedIn Learning 👨‍🎓
 ---
-### Content
+### Content:
 
 1. Defining Python
 2. Fundamentals of Programming in Python: Data
@@ -11,4 +11,4 @@
 6. Fundamentals of Programming in Python: Iteration
 7. Fundamentals of Programming in Python: Recursion
 8. Quick Intro to Object-Oriented Programming in Python
-9. Conclusion
+- Conclusion
